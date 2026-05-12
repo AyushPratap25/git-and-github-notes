@@ -1,0 +1,12 @@
+# Git and GitHub Notes
+
+These notes were created for personal learning purposes while following YouTube tutorials.
+
+Content includes:
+- personal explanations and summaries
+- screenshots taken from tutorial videos where required for understanding
+
+Main learning source:
+- LogicBase Labs / freeCodeCamp Git & GitHub Crash Course
+
+All rights to original tutorial content belong to their respective creators.
